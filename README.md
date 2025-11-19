@@ -11,6 +11,8 @@ Aquest es el meu projecte de github, ja he fet el primer commit i ara vaig a seg
 
 ### Introduction 
 
+![Project Logo](images/logo.png)
+
 ### Features
 
 ### Installation
