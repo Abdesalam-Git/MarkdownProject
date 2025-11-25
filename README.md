@@ -15,6 +15,12 @@ Aquest es el meu projecte de github, ja he fet el primer commit i ara vaig a seg
 
 ### Features
 
+| Feature             | Description                                   | Status             |
+| ------------------  | --------------------------------------------  | ------------------ |
+| Registre d'usuaris  | Permet crear i gestionar usuaris              | "Completed"        |
+| Gestió de fitxers   | Exemple de seguiment i modificació de fitxers | "In Progress"      |
+| Sistema de versions | Exemple pràctic de branch i commits           | "In Progress"      |
+
 ### Installation
 
 ### Usage 
