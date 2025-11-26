@@ -1,0 +1,126 @@
+commit 896c21f8255f1e74a2a6e07eba6800f23b95eb0c
+Merge: f673619 762a1a3
+Author: Abdesalam <53654349h@iespoblenou.org>
+Date:   Wed Nov 26 19:23:31 2025 +0100
+
+    Merge pull request #2 from Abdesalam-Git/feature/1-contribution-guidelines
+    
+    Add contribution guidelines
+
+commit 762a1a34f5a5f243cbde2ca8063191b577e98853
+Author: Alam <53654349h@gmail.com>
+Date:   Wed Nov 26 18:38:40 2025 +0100
+
+    Add contribution guidelines
+
+ CONTRIBUTING.md | 34 ++++++++++++++++++++++++++++++++++
+ 1 file changed, 34 insertions(+)
+
+commit f6736192d7c5fa41b070ffb5feaa10e44dbb05a2
+Author: alam <53654349h@maqueta-linux.poblenou>
+Date:   Wed Nov 26 08:31:13 2025 +0100
+
+    Issue with License.md solved
+
+ LICENSE.md | 42 +++++++++++++++++++++---------------------
+ 1 file changed, 21 insertions(+), 21 deletions(-)
+
+commit 3780277aafe7ac3fcd1bb7d7589381e2d38a43ae
+Author: Alam <53654349h@gmail.com>
+Date:   Tue Nov 25 17:33:24 2025 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 90 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 90 insertions(+)
+
+commit 6135ba634dd868d7cb9db061055dbde956f9df7f
+Author: Alam <53654349h@gmail.com>
+Date:   Tue Nov 25 17:28:34 2025 +0100
+
+    Merge add-license branch into main
+
+ README.md | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit a49510d183c0583af856aefdc7727a4fba023df1
+Author: Alam <53654349h@gmail.com>
+Date:   Tue Nov 25 17:06:47 2025 +0100
+
+    Add MIT License
+
+ LICENSE.md | 21 +++++++++++++++++++++
+ 1 file changed, 21 insertions(+)
+
+commit a7208b38e75998d3401584bc3342b459cc90ce87
+Author: Alam <53654349h@gmail.com>
+Date:   Tue Nov 25 17:00:27 2025 +0100
+
+    Enhance README with for formatting
+
+ README.md | 19 ++++++++++++++++++-
+ 1 file changed, 18 insertions(+), 1 deletion(-)
+
+commit a24181185dd9162408e09b984e6ef4dbc0d2bd15
+Author: Alam <53654349h@gmail.com>
+Date:   Tue Nov 25 16:29:56 2025 +0100
+
+    Add feature list table to README
+
+ README.md | 6 ++++++
+ 1 file changed, 6 insertions(+)
+
+commit 66dc3d049bdbfaca528998f92d08f119ea8ff89c
+Author: Abdesalam <53654349h@iespoblenou.org>
+Date:   Wed Nov 19 09:35:45 2025 +0100
+
+    Add project logo to README
+
+ README.md       |   2 ++
+ images/logo.png | Bin 0 -> 3367 bytes
+ 2 files changed, 2 insertions(+)
+
+commit 226f56d765caa39703c70c09f84d0f64d9468247
+Author: Abdesalam <53654349h@iespoblenou.org>
+Date:   Wed Nov 19 09:28:22 2025 +0100
+
+    Add sections to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 78be0a2b7343b2829d638ecd63234ead82da3d0f
+Author: Abdesalam <53654349h@iespoblenou.org>
+Date:   Wed Nov 19 09:23:32 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 14 ++++++++++++--
+ 1 file changed, 12 insertions(+), 2 deletions(-)
+
+commit 61f94f1d9f9a45d25a6ef54a1ee38428514e9f68
+Author: Abdesalam <53654349h@iespoblenou.org>
+Date:   Wed Nov 19 09:13:02 2025 +0100
+
+    Add Table of Contents to README
+
+ README.md | 8 ++++++++
+ 1 file changed, 8 insertions(+)
+
+commit 45edcbbf15ea662878d1facbb186594302fe3199
+Author: Abdesalam <53654349h@iespoblenou.org>
+Date:   Wed Nov 19 09:04:56 2025 +0100
+
+    Add README with project introduction
+
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+
+commit 1a0439e4c9e6ca3933db8a04126211f0710f6259
+Author: Abdesalam <53654349h@iespoblenou.org>
+Date:   Wed Nov 19 09:00:21 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
